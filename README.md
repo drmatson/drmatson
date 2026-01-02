@@ -39,12 +39,6 @@ Below are a few areas you’ll typically find in my repositories:
 
 ---
 
-## GitHub at a glance 📊
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drmatson&layout=compact)
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=drmatson&show_icons=true)
-
----
-
 ## Collaboration 🤝
 If you’re working on energy analytics, forecasting, optimization, or control for buildings/DERs and want to collaborate, feel free to reach out via LinkedIn.
 
