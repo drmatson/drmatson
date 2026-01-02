@@ -47,4 +47,4 @@ Below are a few areas you’ll typically find in my repositories:
 
 ## Collaboration 🤝
 If you’re working on energy analytics, forecasting, optimization, or control for buildings/DERs and want to collaborate, feel free to reach out via LinkedIn.
-```
+
